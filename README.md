@@ -53,7 +53,7 @@ rake spec                     # Run RSpec code examples
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/Carolina-Bitcoin-Project/UTXOracle.
+Bug reports and pull requests are welcome on GitHub at https://github.com/BrantaOps/cleanrpc.
 
 ## License
 
